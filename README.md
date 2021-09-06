@@ -4,6 +4,7 @@ Journalists have the ability to post happenings around them at any given point a
 If a particular news item summary is clicked, users/viewers are taken to where they can see the full news content. Journalists are expected to pay a particular token to be able to post news. 
 This is a simple but effective token to keep the platform running but also reduce fake news by a little percentage.
 
+Link to the live project: http://newsdapp.herokuapp.com/
 
 # Getting Started with Create React App
 
