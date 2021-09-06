@@ -1,3 +1,10 @@
+
+This app is a decentralized news reading and posting app. It represents the use case of independent journalism on the celo blockchain. 
+Journalists have the ability to post happenings around them at any given point and users can access it anywhere in the world. In this app built with ReactJS, when the journalist posts a news item, the users can see the summary of the news and decide if they want it to be viewed. 
+If a particular news item summary is clicked, users/viewers are taken to where they can see the full news content. Journalists are expected to pay a particular token to be able to post news. 
+This is a simple but effective token to keep the platform running but also reduce fake news by a little percentage.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
